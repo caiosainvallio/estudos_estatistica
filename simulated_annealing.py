@@ -3,7 +3,7 @@ Modelo Simulated Annealing para otimização
 
 @caiosainvallio
 
-Este modelo encontra o mínimo de uma fução de duas variável
+Este modelo encontra o mínimo de uma fução de duas variáveis
 
 *************************************************************"""
 
